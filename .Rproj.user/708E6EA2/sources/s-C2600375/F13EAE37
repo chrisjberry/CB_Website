@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548089868084.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F13EAE37",
+    "lastKnownWriteTime" : 1548090079,
+    "last_content_update" : 1548090079937,
+    "path" : "~/GitHub/CB_Website/publications.Rmd",
+    "project_path" : "publications.Rmd",
+    "properties" : {
+        "cursorPosition" : "36,0",
+        "scrollLine" : "30"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

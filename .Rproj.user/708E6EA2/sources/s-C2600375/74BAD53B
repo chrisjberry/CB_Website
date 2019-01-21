@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548086320833.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "74BAD53B",
+    "lastKnownWriteTime" : 1548088147,
+    "last_content_update" : 1548088147953,
+    "path" : "~/GitHub/CB_Website/contact.Rmd",
+    "project_path" : "contact.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,57",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

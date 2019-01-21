@@ -1,0 +1,64 @@
+---
+title: Christopher J. Berry
+output: webex::html_clean
+---
+
+use tutorial on emilyzabor.com; create yml page
+use themes on jekyllthemes.org
+
+
+
+```{r setup, include=F, echo=F, cache=F}
+source('_chunk_setup.R')
+source('utils.R')
+```
+
+# About
+I'm currently working as a Lecturer in the School of Psychology, University of Plymouth, UK.
+
+
+# Background
+
+PhD 
+BSc
+
+
+
+# Professional Membership
+
+# Research
+
+## Memory and awareness
+
+
+## Mathematical modelling of memory
+
+
+
+# Publications
+
+
+
+# Teaching
+
+
+
+
+# Contact
+
+Dr Chris Berry,
+School of Psychology,
+University of Plymouth,
+Drake Circus,
+Plymouth,
+PL4 8AA
+United Kingdom
+
+office: +44(0)1752 584 835
+work email: christopher.berry@plymouth.ac.uk
+work website: www.plymouth.ac.uk/staff/christopher-berry
+linkedin: ***
+Google Scholar:
+
+
+
