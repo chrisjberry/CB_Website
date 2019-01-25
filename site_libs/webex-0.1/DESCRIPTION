@@ -1,0 +1,27 @@
+Package: webex
+Title: Web exercises for student self-assessment
+Version: 0.0.0.9000
+Authors@R: c(
+  person("Dale", "Barr", email = "dale.barr@glasgow.ac.uk", role = c("aut", "cre")),
+  person("Lisa", "DeBruine", email = "lisa.debruine@glasgow.ac.uk", role = "aut")
+  )
+Description: Functions for easily creating interactive web pages using RMarkdown that students can use in self-assessment.
+Depends: R (>= 3.1.2)
+Imports: jsonlite, htmltools, rmdformats
+License: MIT
+LazyData: true
+RoxygenNote: 6.0.1
+Author: Dale Barr [aut, cre],
+  Lisa DeBruine [aut]
+Maintainer: Dale Barr <dale.barr@glasgow.ac.uk>
+Built: R 3.5.0; ; 2018-10-27 14:10:25 UTC; windows
+RemoteType: github
+RemoteHost: https://api.github.com
+RemoteRepo: webex
+RemoteUsername: benwhalley
+RemoteRef: master
+RemoteSha: 86ea11f4517ed84c845cdfee5be6a3730b8b6f87
+GithubRepo: webex
+GithubUsername: benwhalley
+GithubRef: master
+GithubSHA1: 86ea11f4517ed84c845cdfee5be6a3730b8b6f87

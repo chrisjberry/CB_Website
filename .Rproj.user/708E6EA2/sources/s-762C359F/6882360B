@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548426388622.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6882360B",
+    "lastKnownWriteTime" : 1548426395,
+    "last_content_update" : 1548426395759,
+    "path" : "~/GitHub/CB_Website/research.Rmd",
+    "project_path" : "research.Rmd",
+    "properties" : {
+        "cursorPosition" : "12,4",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

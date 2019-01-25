@@ -22,7 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -92,8 +93,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -109,7 +116,6 @@ body {
   padding-top: 69px;
   margin-top: -69px;
 }
-
 .section h2 {
   padding-top: 69px;
   margin-top: -69px;
@@ -129,6 +135,43 @@ body {
 .section h6 {
   padding-top: 69px;
   margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -150,18 +193,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -210,25 +312,26 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<p><br></p>
 <div id="publications" class="section level5">
 <h5>Publications</h5>
-<p>Spanton, R. W., &amp; Berry, C. J. (submitted). The unequal variance signal detection model of recognition: investigating the encoding variability hypothesis.</p>
+<p>Spanton, R. W., &amp; Berry, C. J. (submitted). The unequal variance signal detection model of recognition: investigating the encoding variability hypothesis. <a href="https://osf.io/grqwc/">OSF Project Page</a></p>
 <p>Lange, N., Berry, C. J., &amp; Hollins, T. H. (submitted). Linking repetition priming, recognition and source memory: a single-system signal detection account.</p>
-<p>Berry, C.J., Ward, E.V., &amp; Shanks, D. R. (2017). Does study duration have opposite effects on recognition and repetition priming? Journal of Memory and Language, 97, 154-174. <a href="https://www.sciencedirect.com/science/article/pii/S0749596X16300870/pdfft?md5=f67487aca342caab5d571bd9b5d9bbb2&amp;pid=1-s2.0-S0749596X16300870-main.pdf">PDF</a></p>
-<p>Hollins, T. J., Lange, N., Berry, C. J., &amp; Dennis, I. (2016). Giving and stealing ideas in memory: Source errors in recall are influenced by both early-selection and late-correction retrieval processes. Journal of Memory and Language, 88, 87-103.</p>
-<p>Wright, G., Berry, C. J., Catmur, C., &amp; Bird, G. (2015). Good liars are neither ‘dark’ nor self-deceptive. PLoS ONE, 10, e0127315. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127315">PDF</a></p>
-<p>Berry, C. J., Kessels, R.P.C., Wester, A.J., &amp; Shanks, D. R. (2014). A single-system model predicts recognition memory and repetition priming in amnesia. Journal of Neuroscience, 34, 10963-10974. <a href="http://www.jneurosci.org/content/jneuro/34/33/10963.full.pdf">PDF</a></p>
-<p>Ward, E. V., Berry, C.J., Shanks, D. R. (2013). Age effects on explicit and implicit memory. Frontiers in Cognition, 6:639. <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00639/full">PDF</a></p>
-<p>Wright, G., Berry, C. J., Bird, G. (2013). Deceptively simple… The “deception‐general” ability and the need to put the liar under the spotlight. Frontiers in Neuroscience, 7:152. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2013.00152/full">PDF</a></p>
-<p>Ward, E. V., Berry, C.J., Shanks, D. R. (2013). An effect of age on implicit memory that is not due to explicit contamination: Implications for single and multiple-systems theories. Psychology and Aging, 28, 429-442.</p>
-<p>Shanks, D. R. &amp; Berry, C. J. (2012). Are there multiple-memory systems? Tests of models of implicit and explicit memory. Quarterly Journal of Experimental Psychology, 65, 1449-1474.</p>
-<p>Wright, G., Berry, C. J., Bird, G. (2012). “You can’t kid a kidder”: Association between production and detection of deception in an interactive deception task. Frontiers in Human Neuroscience (6) 87. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2012.00087/full">PDF</a></p>
-<p>Berry, C. J., Shanks, D. R., Speekenbrink, M., &amp; Henson, R. N. A. (2012). Models of Recognition, Repetition Priming, and Fluency: Exploring a New Framework. Psychological Review, 119, 40-79.</p>
-<p>Berry, C. J., Shanks, D. R., Li, S., Sheridan Rains, L., &amp; Henson, R. N. A. (2010). Can ‘pure’ implicit memory be isolated? A test of a single-system model of recognition and repetition priming. Canadian Journal of Experimental Psychology, 64, 241-255.</p>
-<p>Berry, C. J., Shanks, D. R., &amp; Henson, R. N. A. (2008). A unitary signal-detection model of implicit and explicit memory. Trends in Cognitive Sciences, 12, 367-373.</p>
-<p>Berry, C. J., Shanks, D. R., &amp; Henson, R. N. A. (2008). A single-system account of the relationship between priming, recognition, and fluency. Journal of Experimental Psychology: Learning, Memory, and Cognition, 34, 97-111.</p>
-<p>Berry, C. J., Henson, R. N. A., &amp; Shanks, D. R. (2006). On the relationship between repetition priming and recognition memory: Insights from a computational model. Journal of Memory and Language, 55, 515–533. (A special issue on computational models of memory.)</p>
-<p>Berry, C. J., Shanks, D. R., &amp; Henson, R. N. A. (2006). On the status of unconscious memory: Merikle and Reingold (1991) revisited. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32, 925–934.</p>
+<p>Berry, C.J., Ward, E.V., &amp; Shanks, D. R. (2017). Does study duration have opposite effects on recognition and repetition priming? <em>Journal of Memory and Language</em>, <em>97</em>, 154-174. <a href="https://www.sciencedirect.com/science/article/pii/S0749596X16300870/pdfft?md5=f67487aca342caab5d571bd9b5d9bbb2&amp;pid=1-s2.0-S0749596X16300870-main.pdf">PDF</a> | <a href="https://osf.io/9nxvs/">OSF Preregistration</a> | <a href="https://osf.io/jd8s9/">OSF Data</a></p>
+<p>Hollins, T. J., Lange, N., Berry, C. J., &amp; Dennis, I. (2016). Giving and stealing ideas in memory: Source errors in recall are influenced by both early-selection and late-correction retrieval processes. <em>Journal of Memory and Language</em>, <em>88</em>, 87-103. <a href="https://ac.els-cdn.com/S0749596X1600005X/1-s2.0-S0749596X1600005X-main.pdf?_tid=57dce42a-21fb-421b-a4a3-a574adcba5a4&amp;acdnat=1548423181_766de0b21d5c5e8f34c87c76f05fe884">PDF</a></p>
+<p>Wright, G., Berry, C. J., Catmur, C., &amp; Bird, G. (2015). Good liars are neither ‘dark’ nor self-deceptive. <em>PLoS ONE</em>, <em>10</em>, e0127315. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127315">PDF</a></p>
+<p>Berry, C. J., Kessels, R.P.C., Wester, A.J., &amp; Shanks, D. R. (2014). A single-system model predicts recognition memory and repetition priming in amnesia. <em>Journal of Neuroscience</em>, <em>34</em>, 10963-10974. <a href="http://www.jneurosci.org/content/jneuro/34/33/10963.full.pdf">PDF</a></p>
+<p>Ward, E. V., Berry, C.J., Shanks, D. R. (2013). Age effects on explicit and implicit memory. <em>Frontiers in Cognition</em>, 6:639. <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00639/full">PDF</a></p>
+<p>Wright, G., Berry, C. J., Bird, G. (2013). Deceptively simple… The “deception‐general” ability and the need to put the liar under the spotlight. <em>Frontiers in Neuroscience</em>, 7:152. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2013.00152/full">PDF</a></p>
+<p>Ward, E. V., Berry, C.J., Shanks, D. R. (2013). An effect of age on implicit memory that is not due to explicit contamination: Implications for single and multiple-systems theories. <em>Psychology and Aging</em>, <em>28</em>, 429-442. <a href="https://psycnet.apa.org/record/2013-13038-001">APA</a></p>
+<p>Shanks, D. R. &amp; Berry, C. J. (2012). Are there multiple-memory systems? Tests of models of implicit and explicit memory. <em>Quarterly Journal of Experimental Psychology</em>, <em>65</em>, 1449-1474. <a href="https://www.tandfonline.com/doi/pdf/10.1080/17470218.2012.691887?needAccess=true">PDF</a></p>
+<p>Wright, G., Berry, C. J., Bird, G. (2012). “You can’t kid a kidder”: Association between production and detection of deception in an interactive deception task. <em>Frontiers in Human Neuroscience</em> (6) 87. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2012.00087/full">PDF</a></p>
+<p>Berry, C. J., Shanks, D. R., Speekenbrink, M., &amp; Henson, R. N. A. (2012). Models of Recognition, Repetition Priming, and Fluency: Exploring a New Framework. <em>Psychological Review</em>, <em>119</em>, 40-79. <a href="https://psycnet.apa.org/record/2011-24233-001">APA</a> | <a href="https://www.cell.com/trends/cognitive-sciences/references/S1364-6613(12)00048-4">Spotlight Article</a></p>
+<p>Berry, C. J., Shanks, D. R., Li, S., Sheridan Rains, L., &amp; Henson, R. N. A. (2010). Can ‘pure’ implicit memory be isolated? A test of a single-system model of recognition and repetition priming. <em>Canadian Journal of Experimental Psychology</em>, <em>64</em>, 241-255. <a href="https://psycnet.apa.org/record/2010-26226-002">APA</a></p>
+<p>Berry, C. J., Shanks, D. R., &amp; Henson, R. N. A. (2008). A unitary signal-detection model of implicit and explicit memory. <em>Trends in Cognitive Sciences</em>, <em>12</em>, 367-373. <a href="https://www.sciencedirect.com/science/article/pii/S1364661308001940?via%3Dihub#">PDF</a> | <a href="files/Model%20Demo%20-%20priming%20items%20judged%20new.xls">Excel model demo</a></p>
+<p>Berry, C. J., Shanks, D. R., &amp; Henson, R. N. A. (2008). A single-system account of the relationship between priming, recognition, and fluency. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>, <em>34</em>, 97-111. <a href="https://psycnet.apa.org/record/2007-19381-007">PDF</a> | <a href="http://science.sciencemag.org/content/349/6251/aac4716.full?ijkey=1xgFoCnpLswpk&amp;keytype=ref&amp;siteid=sci">Replicated in the Open Science Project</a></p>
+<p>Berry, C. J., Henson, R. N. A., &amp; Shanks, D. R. (2006). On the relationship between repetition priming and recognition memory: Insights from a computational model. <em>Journal of Memory and Language</em>, <em>55</em>, 515–533. (A special issue on computational models of memory.) <a href="https://ac.els-cdn.com/S0749596X06001021/1-s2.0-S0749596X06001021-main.pdf?_tid=b7252257-d5f6-49e0-b30d-a9bb108f2c2d&amp;acdnat=1548423770_5d1817fec4f9e4a49b50e7028f06c285">PDF</a></p>
+<p>Berry, C. J., Shanks, D. R., &amp; Henson, R. N. A. (2006). On the status of unconscious memory: Merikle and Reingold (1991) revisited. <em>Journal of Experimental Psychology: Learning, Memory, and Cognition</em>, <em>32</em>, 925–934. <a href="https://psycnet.apa.org/record/2006-08497-021">APA</a></p>
 </div>
 
 

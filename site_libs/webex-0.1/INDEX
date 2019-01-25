@@ -1,0 +1,13 @@
+eng_hint                Create an engine to allow block-style hints:
+                        like "'hint button text / hint text The first
+                        line of the block is used as the button text,
+                        all other lines are rendered as markdown and
+                        included in the hidden-by-default div
+fitb                    Create fill-in-the-blank question
+hide                    Create button revealing hidden HTML content
+html_clean              Convert to an HTML document
+mcq                     Create multiple choice question
+round2                  Round up from .5
+strip_lzero             Strip leading zero from numeric string
+torf                    Create true-or-false question
+unhide                  End hidden HTML content

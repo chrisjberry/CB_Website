@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Create fill-in-the-blank question</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for fitb {webex}"><tr><td>fitb {webex}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Create fill-in-the-blank question</h2>
+
+<h3>Description</h3>
+
+<p>Create fill-in-the-blank question
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+fitb(answer, width = calculated_width, num = FALSE, tol = NULL,
+  calculator = num, calculator_digits = 4, ignore_case = FALSE,
+  ignore_ws = TRUE, regex = FALSE)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>answer</code></td>
+<td>
+<p>The correct answer</p>
+</td></tr>
+<tr valign="top"><td><code>width</code></td>
+<td>
+<p>Width of the input box in characters. Defaults to the length of the longest answer.</p>
+</td></tr>
+<tr valign="top"><td><code>num</code></td>
+<td>
+<p>whether the input is numeric, in which case allow for leading zeroes to be omitted</p>
+</td></tr>
+<tr valign="top"><td><code>tol</code></td>
+<td>
+<p>the tolerance within which numeric answers will be accepts; i.e. (response - true.answer) &lt; tol = a correct response. Implies num=TRUE</p>
+</td></tr>
+<tr valign="top"><td><code>calculator</code></td>
+<td>
+<p>whether the input should be eval'd in the local javascript environment. Defaults to 'num&ldquo;</p>
+</td></tr>
+<tr valign="top"><td><code>calculator_digits</code></td>
+<td>
+<p>number significant digits to show</p>
+</td></tr>
+<tr valign="top"><td><code>ignore_case</code></td>
+<td>
+<p>Whether to ignore case (capitalization)</p>
+</td></tr>
+<tr valign="top"><td><code>ignore_ws</code></td>
+<td>
+<p>Whether to ignore white space</p>
+</td></tr>
+<tr valign="top"><td><code>regex</code></td>
+<td>
+<p>Whether to use regex to match answers (concatenates all answers with '|' before matching)</p>
+</td></tr>
+</table>
+
+
+<h3>Details</h3>
+
+<p>Writes html code that creates an input box widget. Call this function inline in an RMarkdown document. See the Web Exercises RMarkdown template for examples.
+</p>
+
+<hr /><div style="text-align: center;">[Package <em>webex</em> version 0.0.0.9000 <a href="00Index.html">Index</a>]</div>
+</body></html>

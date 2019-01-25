@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548426013995.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2403892862",
+    "id" : "C1A2D4CE",
+    "lastKnownWriteTime" : 1548426378,
+    "last_content_update" : 1548426378828,
+    "path" : "~/GitHub/CB_Website/teaching.Rmd",
+    "project_path" : "teaching.Rmd",
+    "properties" : {
+        "cursorPosition" : "31,0",
+        "scrollLine" : "22"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
