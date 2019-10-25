@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572019732107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3187817824",
+    "id" : "E5464120",
+    "lastKnownWriteTime" : 1572019736,
+    "last_content_update" : 1572019736965,
+    "path" : "C:/Users/cberry2/OneDrive - University of Plymouth/GitHub/CB_Website/research.Rmd",
+    "project_path" : "research.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,32",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
