@@ -3,12 +3,32 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<br>
+
 ##### Contact
 
 Dr Christopher Berry
-Lecturer in Psychology
+
 School of Psychology
-Drake Circus, 
-Plymouth, Devon, PL4 8AA
+
+Drake Circus 
+
+Plymouth
+
+Devon 
+
+PL4 8AA
+
 
 christopher.berry@plymouth.ac.uk
+
+
+<br>
+
+<br>
+
+<br>
+
+##### About This Website
+
+I created this website in R using this [excellent tutorial.]( https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)

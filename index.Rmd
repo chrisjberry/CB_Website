@@ -4,16 +4,18 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/ChrisBerry_med.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+<img src="images/ChrisBerry_med.jpg" style="width:25%; border:5px solid; margin-right: 20px; margin-left: 20px; margin-top: 20px" align="right">
 
-#### About me
+<br>
+
+##### About Me
 
 I work as a Lecturer in the School of Psychology, University of Plymouth, UK. My main research interests are in human memory and understanding the relation between explicit (conscious) and implicit (unconscious) forms of memory. I use behavioural experimentation and computational modelling approaches to test different theories.
 
 <br>
 
 
-#### Background
+##### Background
 Lecturer, University of Plymouth
 
 Teaching Fellow, University College London
@@ -27,7 +29,7 @@ BSc (Hons) Psychology, University College London
 <br>
 
 
-#### Professional membership
+##### Professional Membership
 
 Member of the Experimental Psychology Society (EPS)
 
@@ -38,7 +40,7 @@ Member of the Psychonomic Society
 <br>
 
 
-#### Other roles:
+##### Other Roles
 [MSc Advanced Psychology](https://www.plymouth.ac.uk/courses/postgraduate/msc-advanced-psychology) Programme Lead
 
 [MPsych Advanced Psychology](https://www.plymouth.ac.uk/courses/undergraduate/mpsych-advanced-psychology) Programme Lead
