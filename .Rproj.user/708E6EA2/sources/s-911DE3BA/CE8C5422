@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "110615250",
+    "hash" : "0",
     "id" : "CE8C5422",
-    "lastKnownWriteTime" : 1565779735,
-    "last_content_update" : 1565779735,
+    "lastKnownWriteTime" : 1572947065,
+    "last_content_update" : 1572947065474,
     "path" : "C:/Users/cberry2/OneDrive - University of Plymouth/GitHub/CB_Website/publications.Rmd",
     "project_path" : "publications.Rmd",
     "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
