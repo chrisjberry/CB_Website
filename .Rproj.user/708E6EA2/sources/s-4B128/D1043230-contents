@@ -1,7 +1,7 @@
-name: "Christopher J. Berry"
+name: "Christopher Berry"
 output_dir: "."
 navbar:
-  title: "Christopher J. Berry"
+  title: "Christopher Berry"
   left:
     - text: "Research"
       href: research.html

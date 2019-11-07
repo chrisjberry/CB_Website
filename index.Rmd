@@ -4,7 +4,9 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/ChrisBerry_med.jpg" style="width:25%; border:5px solid; margin-right: 20px; margin-left: 20px; margin-top: 20px" align="right">
+<img src="images/ChrisBerry_med.jpg" style="width:25%; 
+border:5px solid; margin-right: 20px; margin-left: 20px; 
+margin-top: 20px" align="right">
 
 <br>
 

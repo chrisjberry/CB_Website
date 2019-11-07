@@ -11,7 +11,7 @@
 
 
 
-<title>index.utf8.md</title>
+<title>Chris Berry</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -280,7 +280,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Christopher J. Berry</a>
+      <a class="navbar-brand" href="index.html">Christopher Berry</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -312,8 +312,12 @@ $(document).ready(function () {
 </div>
 
 
+<hr />
+<hr />
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><img src="images/ChrisBerry_med.jpg" style="width:25%; border:5px solid; margin-right: 20px; margin-left: 20px; margin-top: 20px" align="right"></p>
+<p><img src="images/ChrisBerry_med.jpg" style="width:25%; 
+border:5px solid; margin-right: 20px; margin-left: 20px; 
+margin-top: 20px" align="right"></p>
 <p><br></p>
 <div id="about-me" class="section level5">
 <h5>About Me</h5>
@@ -340,6 +344,7 @@ $(document).ready(function () {
 <h5>Other Roles</h5>
 <p><a href="https://www.plymouth.ac.uk/courses/postgraduate/msc-advanced-psychology">MSc Advanced Psychology</a> Programme Lead</p>
 <p><a href="https://www.plymouth.ac.uk/courses/undergraduate/mpsych-advanced-psychology">MPsych Advanced Psychology</a> Programme Lead</p>
+<p><br></p>
 </div>
 
 

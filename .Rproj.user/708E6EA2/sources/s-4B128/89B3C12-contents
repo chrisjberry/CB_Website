@@ -11,7 +11,7 @@
 
 
 
-<title>index.utf8.md</title>
+<title>Chris Berry</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,8 +22,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -282,7 +280,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Christopher J. Berry</a>
+      <a class="navbar-brand" href="index.html">Christopher Berry</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -295,14 +293,12 @@ $(document).ready(function () {
 <li>
   <a href="teaching.html">Teaching</a>
 </li>
+<li>
+  <a href="contact.html">Contact</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
-     
-  </a>
-</li>
+        
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -317,14 +313,17 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><img src="images/ChrisBerry_med.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left"></p>
-<div id="about-me" class="section level4">
-<h4>About me</h4>
+<p><img src="images/ChrisBerry_med.jpg" style="width:25%; 
+border:5px solid; margin-right: 20px; margin-left: 20px; 
+margin-top: 20px" align="right"></p>
+<p><br></p>
+<div id="about-me" class="section level5">
+<h5>About Me</h5>
 <p>I work as a Lecturer in the School of Psychology, University of Plymouth, UK. My main research interests are in human memory and understanding the relation between explicit (conscious) and implicit (unconscious) forms of memory. I use behavioural experimentation and computational modelling approaches to test different theories.</p>
 <p><br></p>
 </div>
-<div id="background" class="section level4">
-<h4>Background</h4>
+<div id="background" class="section level5">
+<h5>Background</h5>
 <p>Lecturer, University of Plymouth</p>
 <p>Teaching Fellow, University College London</p>
 <p>ESRC Research Fellow, University College London</p>
@@ -332,17 +331,18 @@ $(document).ready(function () {
 <p>BSc (Hons) Psychology, University College London</p>
 <p><br></p>
 </div>
-<div id="professional-membership" class="section level4">
-<h4>Professional membership</h4>
+<div id="professional-membership" class="section level5">
+<h5>Professional Membership</h5>
 <p>Member of the Experimental Psychology Society (EPS)</p>
 <p>Fellow of the Higher Education Academy (FHEA)</p>
 <p>Member of the Psychonomic Society</p>
 <p><br></p>
 </div>
-<div id="other-roles" class="section level4">
-<h4>Other roles:</h4>
+<div id="other-roles" class="section level5">
+<h5>Other Roles</h5>
 <p><a href="https://www.plymouth.ac.uk/courses/postgraduate/msc-advanced-psychology">MSc Advanced Psychology</a> Programme Lead</p>
 <p><a href="https://www.plymouth.ac.uk/courses/undergraduate/mpsych-advanced-psychology">MPsych Advanced Psychology</a> Programme Lead</p>
+<p><br></p>
 </div>
 
 
