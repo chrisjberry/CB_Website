@@ -9,7 +9,7 @@
 
 Spanton, R. W., & Berry, C. J. (in press). The unequal variance signal detection model of recognition: investigating the encoding variability hypothesis. *Quarterly Journal of Experimental Psychology*. [[OSF]](https://osf.io/grqwc/)
 
-Rothen, N., Berry, C. J., Seth, A. K. Oligschlager, S., & Ward, J. (in press). A single-system account of the memory advantage in synaesthesia. *Memory & Cognition*.
+Rothen, N., Berry, C. J., Seth, A. K. Oligschlager, S., & Ward, J. (2020). A single-system account of the memory advantage in synaesthesia. *Memory & Cognition*. [[PDF]](https://link.springer.com/content/pdf/10.3758/s13421-019-01001-8.pdf)
 
 Lange, N., Berry, C. J., & Hollins, T. H. (2019). Linking repetition priming, recognition and source memory: a single-system signal detection account. *Journal of Memory and Language*,*109*. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0749596X19300701) [[OSF]](https://osf.io/6mtyc/)
 
