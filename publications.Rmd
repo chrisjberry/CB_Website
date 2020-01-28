@@ -7,7 +7,7 @@
 
 ##### Publications
 
-Spanton, R. W., & Berry, C. J. (in press). The unequal variance signal detection model of recognition: investigating the encoding variability hypothesis. *Quarterly Journal of Experimental Psychology*. [[OSF]](https://osf.io/grqwc/)
+Spanton, R. W., & Berry, C. J. (2020). The unequal variance signal detection model of recognition: investigating the encoding variability hypothesis. *Quarterly Journal of Experimental Psychology*. [[DOI]](https://doi.org/10.1177/1747021820906117) [[OSF]](https://osf.io/grqwc/)
 
 Rothen, N., Berry, C. J., Seth, A. K. Oligschlager, S., & Ward, J. (2020). A single-system account of the memory advantage in synaesthesia. *Memory & Cognition*. [[PDF]](https://link.springer.com/content/pdf/10.3758/s13421-019-01001-8.pdf)
 
