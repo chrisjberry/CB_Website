@@ -12,7 +12,7 @@ margin-top: 20px" align="right">
 
 ##### About Me
 
-I work as a Lecturer in the School of Psychology, University of Plymouth, UK. My main research interests are in human memory and understanding the relation between explicit (conscious) and implicit (unconscious) forms of memory. I use behavioural experimentation and computational modelling approaches to test different theories.
+I work as an Associate Professor in the School of Psychology, University of Plymouth, UK. My main research interests are in human memory and understanding the relation between explicit (conscious) and implicit (unconscious) forms of memory. I use behavioural experimentation and computational modelling approaches to test different theories.
 
 <br>
 
