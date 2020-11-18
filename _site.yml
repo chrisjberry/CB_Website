@@ -9,6 +9,8 @@ navbar:
       href: publications.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Personal"
+      href: personal.html
     - text: "Contact"
       href: contact.html
 output:
