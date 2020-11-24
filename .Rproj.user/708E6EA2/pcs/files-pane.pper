@@ -1,9 +1,9 @@
 {
-    "path" : "C:/Users/cberry2/OneDrive - University of Plymouth/GitHub/CB_Website",
-    "sortOrder" : [
+    "path": "C:/Users/cberry2/OneDrive - University of Plymouth/GitHub/CB_Website",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

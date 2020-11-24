@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>README.utf8.md</title>
+<title>research</title>
 
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -22,6 +23,17 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -84,7 +96,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -233,6 +244,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -244,18 +256,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -294,6 +294,9 @@ $(document).ready(function () {
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
+  <a href="personal.html">Personal</a>
+</li>
+<li>
   <a href="contact.html">Contact</a>
 </li>
       </ul>
@@ -312,8 +315,18 @@ $(document).ready(function () {
 </div>
 
 
-<div id="cb_website" class="section level1">
-<h1>CB_Website</h1>
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<p><br></p>
+<div id="research-areas" class="section level5">
+<h5>Research Areas</h5>
+<p>My research is primarily concerned with furthering our understanding of human memory, and using formal models to achieve this. A complete understanding how memory works will ultimately have implications for how we treat memory impairments (e.g., in ageing or amnesia), and also for maximising everyday cognitive function. Formal models are a means of implementing and testing competing theories in a rigorous and transparent manner. My specific areas of investigation are: implicit (unconscious) memory; the role of attention in memory; signal detection theory; the relation between repetition priming, recognition memory, fluency, and source memory; deception; mathematical modelling.</p>
+<p><br></p>
+</div>
+<div id="grants-contracts" class="section level5">
+<h5>Grants &amp; Contracts</h5>
+<p>ESRC Research Grant (2016 - 2020). Modelling explicit and implicit memory: linking priming, recognition, and source memory. Principal Investigator, £264,974.</p>
+<p>ESRC Research Fellowship (Dec 2007 - Jan 2011). Testing formal single- and dual-system models of recognition, priming and fluency. Principal Investigator, £226,607. (Fellowship mentor: Prof. D. Shanks; Collaborator: Prof R. Henson.)</p>
+<p>Wellcome Trust Value in People Award (Jan 2011 - April 2011). £5,106.</p>
 </div>
 
 
@@ -325,7 +338,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -333,6 +346,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

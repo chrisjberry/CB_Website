@@ -11,7 +11,7 @@
 
 
 
-<title>research</title>
+<title>teaching</title>
 
 <script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -317,16 +317,35 @@ $(document).ready(function () {
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <p><br></p>
-<div id="research-areas" class="section level5">
-<h5>Research Areas</h5>
-<p>Implicit memory; attention and memory; signal detection models of memory; the relation between repetition priming, recognition memory, and source memory; deception; computational modelling.</p>
+<div id="teaching" class="section level5">
+<h5>Teaching</h5>
+<p>Main areas: memory, research methods, and statistics.</p>
+<p>Undergraduate</p>
+<ul>
+<li><p>Learning (PSYC411)</p></li>
+<li><p>Current topics in Psychology B (PSYC603)</p></li>
+<li><p>Research project (PSYC605)</p></li>
+</ul>
+<p>Postgraduate</p>
+<ul>
+<li><p>Personal and Professional Development (PSYC750) (Module Leader)</p></li>
+<li><p>Data Fluency (PSYC753)</p></li>
+<li><p>Advanced Psychology Research Project (PSYC781) (Module Leader)</p></li>
+</ul>
+<p>I am also an undergraduate tutorial leader and supervise BSc and MSc dissertation projects.</p>
 <p><br></p>
 </div>
-<div id="grants-contracts" class="section level5">
-<h5>Grants &amp; Contracts</h5>
-<p>ESRC Research Grant (2016 - 2020). Modelling explicit and implicit memory: linking priming, recognition, and source memory. Principal Investigator, £264,974.</p>
-<p>ESRC Research Fellowship (Dec 2007 - Jan 2011). Testing formal single- and dual-system models of recognition, priming and fluency. Principal Investigator, £226,607. (Fellowship mentor: Prof. D. Shanks; Collaborator: Prof R. Henson.)</p>
-<p>Wellcome Trust Value in People Award (Jan 2011 - April 2011). £5,106.</p>
+<div id="award-nominations" class="section level5">
+<h5>Award Nominations</h5>
+<p>2020 Twice nominated for the award of Most Dedicated Dissertation Supervisor SSTAR Awards, University of Plymouth.</p>
+<p>2019 Highly commended for the award of Best Placement Support, SSTAR Awards, University of Plymouth.</p>
+<p>2019 Nominated twice for the award of Outstanding Personal Tutor, SSTAR Awards, University of Plymouth.</p>
+<p>2019 Nominated for the award of Most Dedicated Dissertation Supervisor SSTAR Awards, University of Plymouth.</p>
+<p>2018 Nominated twice for the award of Outstanding Personal Tutor, SSTAR Awards, University of Plymouth.</p>
+<p>2018 Nominated for the award of Most Dedicated Dissertation Supervisor SSTAR Awards, University of Plymouth.</p>
+<p>2016 Nominated for the award of Inspirational Teaching, SSTAR Awards, University of Plymouth.</p>
+<p>2016 Nominated for the award of Outstanding Personal Tutor, SSTAR Awards, University of Plymouth.</p>
+<p>2014 Nominated for the Postgraduate Certificate in Academic Practice Award of Excellence, University of Plymouth.</p>
 </div>
 
 
