@@ -6,6 +6,8 @@
 
 ##### Publications
 
+Lange, N. & Berry, C. J. (*in press*). Explaining the association between repetition priming and source memory: No evidence for a contribution of recognition or fluency. *Quarterly Journal of Experimental Psychology* [[DOI]](https://doi.org/10.1177/17470218211008406) [[OSF]](https://osf.io/r254g/)
+
 Ward, E. V., Berry, C. J., Shanks, D. R., Moller, P. L., & Czsiser, E. (2020). Aging predicts decline in explicit and implicit memory: A lifespan study. *Psychological Science*, *31*, 1071-1083. [[DOI]](https://doi.org/10.1177/0956797620927648) [[OSF]](https://osf.io/d6j4u/)
 
 Spanton, R. W., & Berry, C. J. (2020). The unequal variance signal detection model of recognition: investigating the encoding variability hypothesis. *Quarterly Journal of Experimental Psychology*, *73*, 1242-1260. [[DOI]](https://doi.org/10.1177/1747021820906117) [[OSF]](https://osf.io/grqwc/)
