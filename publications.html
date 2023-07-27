@@ -13,7 +13,7 @@
 
 <title>publications.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -57,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -81,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -138,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -171,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -180,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,7 +234,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -394,6 +395,141 @@ status of unconscious memory: Merikle and Reingold (1991) revisited.
 Cognition</em>, <em>32</em>, 925–934.<a
 href="files/Berry%20Shanks%20Henson%202006%20JEPLMC.pdf">[PDF]</a> <a
 href="https://psycnet.apa.org/record/2006-08497-021">[APA]</a></p>
+<p><br />
+</p>
+</div>
+<div id="presentations" class="section level5">
+<h5>Presentations</h5>
+<p>Berry, C. J., &amp; Shanks, D. R. (2023, April). On the rapidity and
+completeness of forgetting in everyday amnesia: Signal detection
+accounts. Meeting of the Experimental Psychology Society, Plymouth,
+UK.</p>
+<p>Spanton, R. W. &amp; Berry, C. J. (2023, April). Is implicit memory
+better for correctly recalled items? Evidence from cued and free recall
+tasks. Meeting of the Experimental Psychology Society, Plymouth, UK.</p>
+<p>Spanton, R. W. &amp; Berry, C. J. (2022, July). Variability in
+recognition memory scales with mean memory strength and encoding
+variability in the UVSD model. Meeting of Mathematical Society, Toronto,
+Canada.</p>
+<p>Spanton, R. W. &amp; Berry, C. J. (2022, July). Variability in
+recognition memory scales with mean memory strength and encoding
+variability in the UVSD model. Meeting of the Experimental Psychology
+Society, Stirling, UK.</p>
+<p>Lange, N., &amp; Berry, C. J., Hollins, T. J. (2019, April). The
+association of repetition priming and source memory is not driven by
+recognition memory. Tagung Experimentell Arbeitender Psychologen (TEAP),
+London, UK.</p>
+<p>Spanton, R. W. &amp; Berry, C. J. (2019, April). The unequal variance
+signal-detection model of recognition memory: Tests of the encoding
+variability hypothesis. Tagung Experimentell Arbeitender Psychologen
+(TEAP), London, UK.</p>
+<p>Ward, E. V., Berry, C. J., Shanks, D. R. (2019, April). Explicit and
+implicit memory in aging: Effects of attention and processing style. 5th
+International Conference on Aging &amp; Cognition, Zurich,
+Switzerland.</p>
+<p>Spanton, R. W. &amp; Berry, C. J. (2019, January). The unequal
+variance signal-detection model of recognition memory: Tests of the
+encoding variability hypothesis. Meeting of the Experimental Psychology
+Society, London, UK.</p>
+<p>Lange, N., &amp; Berry, C. J. (2019, January). Linking repetition
+priming, recognition, and source memory: a single-system model. Meeting
+of the Experimental Psychology Society, London, UK.</p>
+<p>Lange, N., &amp; Berry, C. J., Hollins, T. J. (2018, November).
+Linking repetition priming, recognition, and source memory: a
+single-system model. 59th Annual Meeting of the Psychonomic Society, New
+Orleans, USA.</p>
+<p>Berry, C. J., &amp; Spanton, R. W. (2018, November). The unequal
+variance signal-detection model of recognition memory: Tests of the
+encoding variability hypothesis. 59th Annual Meeting of the Psychonomic
+Society, New Orleans, USA.</p>
+<p>Berry, C. J. (2016, July). Recognition, priming, and source memory:
+One system or multiple? Invited talk for symposium ‘Multi-process
+theories of learning,’ the Annual Conference of the Cognition Institute,
+University of Plymouth, Plymouth.</p>
+<p>Hollins, T. J., Lange, N., Dennis, I. &amp; Berry, C. J. (2014). I
+told you so: during recall people give away more answers than they
+plagiarise. Metacog2014, Clermont-Ferrand, France, September.</p>
+<p>Berry, C. J. (2014, March). Modelling Explicit and Implicit Memory.
+Invited talk presented to the Cognition group, School of Psychology.
+University of Sussex, Sussex.</p>
+<p>Berry, C. J. (2013, October). Modelling Explicit and Implicit Memory.
+Invited talk presented to the School of Psychology. University of Lund,
+Sweden.</p>
+<p>Berry, C. J., Kessells, R., Shanks, D. R., Henson, R. N. A., &amp;
+Wester, A. (2013, March). Recognition, priming and fluency in
+Korsakoff’s syndrome: Testing a single-system model. Annual Conference
+of the Cognition Institute, University of Plymouth, Plymouth.</p>
+<p>Shanks, D. R., Ward, E. V., &amp; Berry, C. J. (2012, Sept). The
+utility of the explicit/implicit distinction for understanding
+age-related decline in learning and memory. Symposium on Lifespan
+Perspectives on Implicit and Explicit Learning, Université Libre de
+Bruxelles, Brussels.</p>
+<p>Berry, C. J., Shanks, D. R., Speekenbrink, M., &amp; Henson, R.N.A.
+(2011, August). Tests of models of repetition priming and recognition.
+Invited symposium talk, 5th International Conference on Memory,
+York.</p>
+<p>Berry, C. J. (2010, November). Tests of models of repetition priming
+and recognition. Invited talk to the Memory Group, MRC Cognition and
+Brain Sciences Unit, Cambridge.</p>
+<p>Berry, C. J., Shanks, D. R., Henson, R. N. A. (2010, July). Testing a
+single-system model of recognition, priming and fluency. Recognition
+memory mechanisms symposium, Bristol.</p>
+<p>Berry, C. J., Shanks, D. R., Henson, R. N. A. (2010, April). Testing
+a single-system model of recognition, priming and fluency. UCL
+Neuroscience symposium.</p>
+<p>Berry, C. J., Shanks, D. R., Li, S., Rains, L. S., Henson, R.N.A.
+(2010, April). Can ‘pure’ implicit memory be isolated? A test of a
+single-system model of recognition and repetition priming. Joint meeting
+of the Spanish Experimental Psychological Society and the Experimental
+Psychology Society, Granada, Spain.</p>
+<p>Berry, C. J., Shanks, D. R., Henson, R. N. A. (2010, March). Are
+there multiple-memory systems? Tests of models of recognition, priming,
+and fluency. Meeting of the British Neuropsychological Society,
+London.</p>
+<p>Berry, C. J. (2010, January). A unitary signal-detection model of
+implicit and explicit memory. Invited talk to the Centre for Cognitive
+Science and Cognitive Systems, University of Kent.</p>
+<p>Shanks, D. R., Berry, C. J., Henson, R. N. A. (2009, November).
+Testing a single-system model of recognition, priming and fluency. 50th
+Annual Meeting of the Psychonomic society, Boston, USA.</p>
+<p>Berry, C. J., Shanks, D. R., Henson, R. N. A. (2009, July). Testing
+models of recognition, priming and fluency. Joint meeting of The
+Canadian Society for Brain, Behaviour and Cognitive Science (CSBBCS) and
+the Experimental Psychology Society, York.</p>
+<p>Berry, C. J. (2007, November). A model of priming, recognition, and
+fluency. Invited talk to the Memory Group, MRC Cognition and Brain
+Sciences Unit, Cambridge.</p>
+<p>Berry, C. J., Shanks, D. R., Henson, R. N. A. (2007, April). A
+single-system computational model of repetition priming and recognition.
+Belgian Association of Psychological Science and the Experimental
+Psychology Society, Cardiff.</p>
+<p>Berry, C. J., Shanks, D. R., Henson, R. N. A. (2006, January). On the
+relationship between repetition priming and recognition memory: Insights
+from a computational model. Meeting of the Experimental Psychology
+Society, London, UK.</p>
+<p>Shanks, D. R., Berry, C. J., Henson, R. N. A. (2005, November). On
+the status of unconscious memory: Merikle and Reingold (1991) revisited.
+46th Annual Meeting of the Psychonomic Society, Toronto, Canada.</p>
+<p>Berry, C. J., Shanks, D. R., Henson, R. N. A. (2005, September). On
+the status of unconscious memory: Merikle and Reingold (1991) revisited.
+Meeting of the British Psychology Society, Cognitive Division, Leeds,
+UK.</p>
+<p>Berry, C. J. (2005, April). Attention, repetition priming, and
+recognition memory. Functional Imaging Laboratory, UCL.</p>
+<p>Berry, C. J., Shanks, D. R., Henson, R. N. A. (2005, April).
+Unconscious memory: A failure to replicate key evidence. Meeting of the
+Experimental Psychology Society, Essex, UK.</p>
+<p><br />
+</p>
+</div>
+<div id="public-engagement" class="section level5">
+<h5>Public Engagement</h5>
+<p>October, 2022. Podcast interview on The Ethics of Digital Immortality
+and Digital Bodies podcast, by Fuel Digital (fueltheatre.com). Episode
+title: Are we our memories?</p>
+<p>October, 2018. Live Science Residency at the Science Museum, London.
+How much of what we see do we remember? Collaboration with University of
+Middlesex and UCL.</p>
 </div>
 
 
