@@ -9,8 +9,8 @@ navbar:
       href: publications.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Personal"
-      href: personal.html
+    - text: "Non-Academic"
+      href: non-academic.html
       title: personal
     - text: "Contact"
       href: contact.html

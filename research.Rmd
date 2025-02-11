@@ -6,7 +6,7 @@
 
 ##### Research Areas
 
-My research is primarily concerned with furthering our understanding of human memory, and using formal models to achieve this. A complete understanding how memory works will ultimately have implications for how we treat memory impairments (e.g., in ageing or amnesia), and also for maximising everyday cognitive function. Formal models are a means of implementing and testing competing theories in a rigorous and transparent manner. My specific areas of investigation are: implicit (unconscious) memory; the role of attention in memory; signal detection theory; the relation between repetition priming, recognition memory, fluency, and source memory; deception; mathematical modelling.
+My research is primarily concerned with furthering our understanding of human memory, and using formal models to achieve this. A complete understanding how memory works will ultimately have implications for how we treat memory impairments (e.g., in ageing or amnesia), and also for maximising everyday cognitive function. Formal models are a means of implementing and testing competing theories in a rigorous and transparent manner. My specific areas of investigation are: implicit (unconscious) memory; the role of attention in memory; signal detection theory; the relation between repetition priming, recognition memory, fluency, and source memory; mathematical modelling; everyday amnesia.
 
 
 

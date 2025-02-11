@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/Chris_sq25.jpg" style="width:20%; 
+<img src="images/Chris2.jpg" style="width:20%; 
 border:5px solid; margin-right: 20px; margin-left: 20px; 
 margin-top: 20px" align="right">
 
@@ -10,15 +10,17 @@ margin-top: 20px" align="right">
 
 ##### About Me
 
-I work as an Associate Professor in the School of Psychology, University of Plymouth, UK. This is my personal website. My main research interests are in human memory and understanding the relation between explicit (conscious) and implicit (unconscious) forms of memory. I use behavioural experimentation and computational modelling approaches to test different theories.
+I work as an Associate Professor in the School of Psychology, University of Plymouth, UK. This is my personal website. My main research interests are in human memory and using cognitive experiments and formal modelling approaches to test different theories.
 
 <br>
 
 
 ##### Background
-Associate Professor, University of Plymouth
+Associate Professor of Psychology, University of Plymouth
 
 Lecturer, University of Plymouth
+
+Postgraduate Certificate in Academic Practice (PGCAP), University of Plymouth 
 
 Teaching Fellow, University College London
 
@@ -37,7 +39,6 @@ Member of the Experimental Psychology Society (EPS)
 
 Fellow of the Higher Education Academy (FHEA)
 
-Member of the Psychonomic Society
 
 <br>
 
@@ -45,14 +46,9 @@ Member of the Psychonomic Society
 ##### Other Roles
 [MSc Research Methods in Psychology](https://www.plymouth.ac.uk/courses/postgraduate/msc-research-methods-in-psychology) Programme Lead
 
-[MSc Advanced Psychology](https://www.plymouth.ac.uk/courses/postgraduate/msc-advanced-psychology) Programme Lead
+[MPsych (Hons) Psychology](https://www.plymouth.ac.uk/courses/undergraduate/mpsych-psychology) Programme Lead
 
-[MPsych Psychology](https://www.plymouth.ac.uk/courses/undergraduate/mpsych-psychology) Programme Lead
+MPsych (Hons) Advanced Psychology Programme Lead
 
-[MPsych Advanced Psychology](https://www.plymouth.ac.uk/courses/undergraduate/mpsych-advanced-psychology) Programme Lead
-
-[Research Apprenticeship Scheme](https://www.psy.plymouth.ac.uk/admin4/apprenticeships/) Coordinator
-
-Ethics Committee Member, School of Psychology.
 
 <br>

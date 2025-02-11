@@ -5,6 +5,11 @@
 <br>
 
 ##### Publications
+Lee, D. Y. H., Berry, C. J. & Shanks, D. R. (2024). Kelley’s Paradox and strength skewness in research on unconscious mental processes. *Psychonomic Bulletin & Review*. [[PDF]](https://link.springer.com/content/pdf/10.3758/s13423-024-02578-1.pdf)  [[DOI]](https://doi.org/10.3758/s13423-024-02578-1)  [[OSF]](https://osf.io/pk6an)
+
+Berry, C. J., & Shanks, D. R. (2024). Everyday amnesia: Residual memory for high confidence misses and implications for decision models of recognition. *Journal of Experimental Psychology: General*, *153*(7), 1790–1815. [[PDF]](https://psycnet.apa.org/fulltext/2024-77598-001.pdf) [[DOI]](https://doi.org/10.1037/xge0001599) [[OSF]](https://osf.io/2q5yw/)
+
+Spanton, R. W., & Berry, C. J. (2023). Does variability in recognition memory scale with mean memory strength or encoding variability in the UVSD model? *Quarterly Journal of Experimental Psychology*. *76*(9), 2037-2052. [[PDF]](https://journals.sagepub.com/doi/pdf/10.1177/17470218221136498?download=true) [[DOI]](https://doi.org/10.1177/17470218221136498) [[OSF]](https://osf.io/wyhb2/)
 
 Lange, N. & Berry, C. J. (2021). Explaining the association between repetition priming and source memory: No evidence for a contribution of recognition or fluency. *Quarterly Journal of Experimental Psychology*, *74*, 1806-1817. [[PDF]](https://journals.sagepub.com/doi/pdf/10.1177/17470218211008406) [[DOI]](https://doi.org/10.1177/17470218211008406) [[OSF]](https://osf.io/r254g/)
 
@@ -22,7 +27,7 @@ Hollins, T. J., Lange, N., Berry, C. J., & Dennis, I. (2016). Giving and stealin
 
 Wright, G., Berry, C. J., Catmur, C., & Bird, G. (2015). Good liars are neither 'dark' nor self-deceptive. *PLoS ONE*, *10*, e0127315. [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127315)
 
-Berry, C. J., Kessels, R.P.C., Wester, A.J., & Shanks, D. R. (2014). A single-system model predicts recognition memory and repetition priming in amnesia. *Journal of Neuroscience*, *34*, 10963-10974. [[PDF]](http://www.jneurosci.org/content/jneuro/34/33/10963.full.pdf)
+Berry, C. J., Kessels, R.P.C., Wester, A.J., & Shanks, D. R. (2014). A single-system model predicts recognition memory and repetition priming in amnesia. *The Journal of Neuroscience*, *34*, 10963-10974. [[PDF]](http://www.jneurosci.org/content/jneuro/34/33/10963.full.pdf)
 
 Ward, E. V., Berry, C.J., Shanks, D. R. (2013). Age effects on explicit and implicit memory. *Frontiers in Cognition*, 6:639. [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00639/full)
 
@@ -45,3 +50,84 @@ Berry, C. J., Shanks, D. R., & Henson, R. N. A. (2008). A single-system account 
 Berry, C. J., Henson, R. N. A., & Shanks, D. R. (2006). On the relationship between repetition priming and recognition memory: Insights from a computational model. *Journal of Memory and Language*, *55*, 515–533. [[PDF]](files/Berry Henson Shanks 2006 JML.pdf)
 
 Berry, C. J., Shanks, D. R., & Henson, R. N. A. (2006). On the status of unconscious memory: Merikle and Reingold (1991) revisited. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *32*, 925–934.[[PDF]](files/Berry Shanks Henson 2006 JEPLMC.pdf) [[APA]](https://psycnet.apa.org/record/2006-08497-021)
+
+\
+ 
+##### Presentations
+
+Lee, D., Berry, C. J., & Shanks, D. R. (2024, July). Kelley’s Paradox and strength skewness in research on unconscious mental processes. Meeting of the Association for the Scientific Study of Consciousness, Tokyo. Japan.
+
+Berry, C. J., & Shanks, D. R. (2023, April). On the rapidity and completeness of forgetting in everyday amnesia: Signal detection accounts. Meeting of the Experimental Psychology Society, Plymouth, UK.
+
+Spanton, R. W. & Berry, C. J. (2023, April). Is implicit memory better for correctly recalled items? Evidence from cued and free recall tasks. Meeting of the Experimental Psychology Society, Plymouth, UK.
+
+Spanton, R. W. & Berry, C. J. (2022, July). Variability in recognition memory scales with mean memory strength and encoding variability in the UVSD model. Meeting of Mathematical Society, Toronto, Canada.
+
+Spanton, R. W. & Berry, C. J. (2022, July). Variability in recognition memory scales with mean memory strength and encoding variability in the UVSD model. Meeting of the Experimental Psychology Society, Stirling, UK.
+
+Lange, N., & Berry, C. J., Hollins, T. J. (2019, April). The association of repetition priming and source memory is not driven by recognition memory. Tagung Experimentell Arbeitender Psychologen (TEAP), London, UK.
+
+Spanton, R. W. & Berry, C. J. (2019, April). The unequal variance signal-detection model of recognition memory: Tests of the encoding variability hypothesis. Tagung Experimentell Arbeitender Psychologen (TEAP), London, UK.
+
+Ward, E. V., Berry, C. J., Shanks, D. R. (2019, April). Explicit and implicit memory in aging: Effects of attention and processing style. 5th International Conference on Aging & Cognition, Zurich, Switzerland.
+
+Spanton, R. W. & Berry, C. J. (2019, January). The unequal variance signal-detection model of recognition memory: Tests of the encoding variability hypothesis. Meeting of the Experimental Psychology Society, London, UK.
+
+Lange, N., & Berry, C. J. (2019, January). Linking repetition priming, recognition, and source memory: a single-system model. Meeting of the Experimental Psychology Society, London, UK.
+
+Lange, N., & Berry, C. J., Hollins, T. J. (2018, November). Linking repetition priming, recognition, and source memory: a single-system model. 59th Annual Meeting of the Psychonomic Society, New Orleans, USA.
+
+Berry, C. J., & Spanton, R. W. (2018, November). The unequal variance signal-detection model of recognition memory: Tests of the encoding variability hypothesis. 59th Annual Meeting of the Psychonomic Society, New Orleans, USA.
+
+Berry, C. J. (2016, July). Recognition, priming, and source memory: One system or multiple? Invited talk for symposium 'Multi-process theories of learning,’ the Annual Conference of the Cognition Institute, University of Plymouth, Plymouth.
+
+Hollins, T. J., Lange, N., Dennis, I. & Berry, C. J. (2014). I told you so: during recall people give away more answers than they plagiarise. Metacog2014, Clermont-Ferrand, France, September.
+
+Berry, C. J. (2014, March). Modelling Explicit and Implicit Memory. Invited talk presented to the Cognition group, School of Psychology. University of Sussex, Sussex.
+
+Berry, C. J. (2013, October). Modelling Explicit and Implicit Memory. Invited talk presented to the School of Psychology. University of Lund, Sweden.
+
+Berry, C. J., Kessells, R., Shanks, D. R., Henson, R. N. A., & Wester, A. (2013, March). Recognition, priming and fluency in Korsakoff’s syndrome: Testing a single-system model. Annual Conference of the Cognition Institute, University of Plymouth, Plymouth.
+
+Shanks, D. R., Ward, E. V., & Berry, C. J. (2012, Sept). The utility of the explicit/implicit distinction for understanding age-related decline in learning and memory. Symposium on Lifespan Perspectives on Implicit and Explicit Learning, Université Libre de Bruxelles, Brussels.
+
+Berry, C. J., Shanks, D. R., Speekenbrink, M., & Henson, R.N.A. (2011, August). Tests of models of repetition priming and recognition. Invited symposium talk, 5th International Conference on Memory, York.
+
+Berry, C. J. (2010, November). Tests of models of repetition priming and recognition. Invited talk to the Memory Group, MRC Cognition and Brain Sciences Unit, Cambridge.
+
+Berry, C. J., Shanks, D. R., Henson, R. N. A. (2010, July). Testing a single-system model of recognition, priming and fluency. Recognition memory mechanisms symposium, Bristol.
+
+Berry, C. J., Shanks, D. R., Henson, R. N. A. (2010, April). Testing a single-system model of recognition, priming and fluency. UCL Neuroscience symposium.
+
+Berry, C. J., Shanks, D. R., Li, S., Rains, L. S., Henson, R.N.A. (2010, April). Can 'pure' implicit memory be isolated? A test of a single-system model of recognition and repetition priming. Joint meeting of the Spanish Experimental Psychological Society and the Experimental Psychology Society, Granada, Spain.
+
+Berry, C. J., Shanks, D. R., Henson, R. N. A. (2010, March). Are there multiple-memory systems? Tests of models of recognition, priming, and fluency. Meeting of the British Neuropsychological Society, London.
+
+Berry, C. J. (2010, January). A unitary signal-detection model of implicit and explicit memory. Invited talk to the Centre for Cognitive Science and Cognitive Systems, University of Kent.
+
+Shanks, D. R., Berry, C. J., Henson, R. N. A. (2009, November). Testing a single-system model of recognition, priming and fluency. 50th Annual Meeting of the Psychonomic society, Boston, USA.
+
+Berry, C. J., Shanks, D. R., Henson, R. N. A. (2009, July). Testing models of recognition, priming and fluency. Joint meeting of The Canadian Society for Brain, Behaviour and Cognitive Science (CSBBCS) and the Experimental Psychology Society, York.
+
+Berry, C. J. (2007, November). A model of priming, recognition, and fluency. Invited talk to the Memory Group, MRC Cognition and Brain Sciences Unit, Cambridge.
+
+Berry, C. J., Shanks, D. R., Henson, R. N. A. (2007, April). A single-system computational model of repetition priming and recognition. Belgian Association of Psychological Science and the Experimental Psychology Society, Cardiff.
+
+Berry, C. J., Shanks, D. R., Henson, R. N. A. (2006, January). On the relationship between repetition priming and recognition memory: Insights from a computational model. Meeting of the Experimental Psychology Society, London, UK.
+
+Shanks, D. R., Berry, C. J., Henson, R. N. A. (2005, November). On the status of unconscious memory: Merikle and Reingold (1991) revisited. 46th Annual Meeting of the Psychonomic Society, Toronto, Canada.
+
+Berry, C. J., Shanks, D. R., Henson, R. N. A. (2005, September). On the status of unconscious memory: Merikle and Reingold (1991) revisited. Meeting of the British Psychology Society, Cognitive Division, Leeds, UK.
+
+Berry, C. J. (2005, April). Attention, repetition priming, and recognition memory. Functional Imaging Laboratory, UCL.
+
+Berry, C. J., Shanks, D. R., Henson, R. N. A. (2005, April). Unconscious memory: A failure to replicate key evidence. Meeting of the Experimental Psychology Society, Essex, UK.
+
+\
+
+##### Public Engagement
+October, 2022. Podcast interview on The Ethics of Digital Immortality and Digital Bodies podcast, by Fuel Digital (fueltheatre.com). Episode title: Are we our memories?
+
+October, 2018. Live Science Residency at the Science Museum, London. How much of what we see do we remember? Collaboration with University of Middlesex and UCL. 
+
+

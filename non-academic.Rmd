@@ -1,0 +1,47 @@
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<br>
+
+
+
+
+Outside of academia I like painting, playing the guitar, and hiking. 
+
+\
+
+#### Painting
+
+You can see some of my paintings here: [https://chrisberryart.com](https://chrisberryart.com)
+
+<a href="https://chrisberryart.com"><img src="images/qualia_25b_72dpi_cberry.jpg" style="width:45%; 
+border:0px solid; margin-right: 20px; margin-left: 20px; 
+margin-top: 20px" align="center"></a>
+
+\
+\
+
+#### Guitar
+
+In an earlier life, I played in the rock band Sleepscape. Listen to us on Spotify [here](https://open.spotify.com/album/2iGPCzX5WRnnxxIaB933J8?si=RAJTti4qSYC6GXnrUyWC0Q). 
+
+<a href="https://open.spotify.com/album/2iGPCzX5WRnnxxIaB933J8?si=RAJTti4qSYC6GXnrUyWC0Q"><img src="images/whatfor_sleepscape_25.png" style="width:40%; 
+border:0px solid; margin-right: 20px; margin-left: 20px; 
+margin-top: 20px" align="center"></a>
+<a href="https://open.spotify.com/artist/6NhInovs5CFhSn7CqgXefg"><img src="images/ss02_B.jpg" style="width:30%; 
+border:0px solid; margin-right: 20px; margin-left: 20px; 
+margin-top: 20px" align="center"></a>
+
+
+\
+\
+
+#### Hiking
+
+<img src="images/hikes2.png" style="width:80%; 
+border:0px solid; margin-right: 20px; margin-left: 20px; 
+margin-top: 20px" align="center">
+
+\
