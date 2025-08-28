@@ -1,6 +1,10 @@
+---
+title: "C Berry | Research"
+output:
+  html_document:
+    css: 'style.css'
+---
 
-
-<link rel="stylesheet" href="styles.css" type="text/css">
 
 <br>
 
@@ -8,6 +12,15 @@
 
 My research is primarily concerned with furthering our understanding of human memory, and using formal models to achieve this. A complete understanding how memory works will ultimately have implications for how we treat memory impairments (e.g., in ageing or amnesia), and also for maximising everyday cognitive function. Formal models are a means of implementing and testing competing theories in a rigorous and transparent manner. My specific areas of investigation are: implicit (unconscious) memory; the role of attention in memory; signal detection theory; the relation between repetition priming, recognition memory, fluency, and source memory; mathematical modelling; everyday amnesia.
 
+
+
+<br>
+
+##### Research links
+
+- [Google Scholar](https://scholar.google.co.uk/citations?user=AJV57-4AAAAJ&hl=en)
+- [Orcid](https://orcid.org/0000-0002-3512-3604)
+- [University of Plymouth pages](https://www.plymouth.ac.uk/staff/christopher-berry)
 
 
 <br>

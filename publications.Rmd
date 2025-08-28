@@ -1,11 +1,16 @@
+---
+title: "C Berry | Publications"
+output:
+  html_document:
+    css: 'style.css'
+---
 
 
-<link rel="stylesheet" href="styles.css" type="text/css">
 
 <br>
 
 ##### Publications
-Lee, D. Y. H., Berry, C. J. & Shanks, D. R. (2024). Kelley’s Paradox and strength skewness in research on unconscious mental processes. *Psychonomic Bulletin & Review*. [[PDF]](https://link.springer.com/content/pdf/10.3758/s13423-024-02578-1.pdf)  [[DOI]](https://doi.org/10.3758/s13423-024-02578-1)  [[OSF]](https://osf.io/pk6an)
+Lee, D. Y. H., Berry, C. J. & Shanks, D. R. (2025). Kelley’s Paradox and strength skewness in research on unconscious mental processes. *Psychonomic Bulletin & Review*, *32*, 614-635.  [[PDF]](https://link.springer.com/content/pdf/10.3758/s13423-024-02578-1.pdf)  [[DOI]](https://doi.org/10.3758/s13423-024-02578-1)  [[OSF]](https://osf.io/pk6an)
 
 Berry, C. J., & Shanks, D. R. (2024). Everyday amnesia: Residual memory for high confidence misses and implications for decision models of recognition. *Journal of Experimental Psychology: General*, *153*(7), 1790–1815. [[PDF]](https://psycnet.apa.org/fulltext/2024-77598-001.pdf) [[DOI]](https://doi.org/10.1037/xge0001599) [[OSF]](https://osf.io/2q5yw/)
 
@@ -54,6 +59,10 @@ Berry, C. J., Shanks, D. R., & Henson, R. N. A. (2006). On the status of unconsc
 \
  
 ##### Presentations
+
+Berry, C. J. (2025, March). Are you certain? Tests of decision models of recognition. Cognition Group, School of Psychology, University of Plymouth.
+
+Lee, D. Y. H., Berry, C. J., & Shanks, D. R. (2025, January). Kelley’s Paradox and strength skewness in research on unconscious mental processes. Meeting of the Experimental Psychology Society (EPS), London, UK. 
 
 Lee, D., Berry, C. J., & Shanks, D. R. (2024, July). Kelley’s Paradox and strength skewness in research on unconscious mental processes. Meeting of the Association for the Scientific Study of Consciousness, Tokyo. Japan.
 

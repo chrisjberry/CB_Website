@@ -1,7 +1,11 @@
+---
+title: "C Berry | Non-Academic"
+output:
+  html_document:
+    css: 'style.css'
+---
 
 
-
-<link rel="stylesheet" href="styles.css" type="text/css">
 
 <br>
 
@@ -12,7 +16,7 @@ Outside of academia I like painting, playing the guitar, and hiking.
 
 \
 
-#### Painting
+##### <span style="text-align: left;">Painting</span>
 
 You can see some of my paintings here: [https://chrisberryart.com](https://chrisberryart.com)
 
@@ -23,7 +27,7 @@ margin-top: 20px" align="center"></a>
 \
 \
 
-#### Guitar
+##### <span style="text-align: left;">Guitar</span>
 
 In an earlier life, I played in the rock band Sleepscape. Listen to us on Spotify [here](https://open.spotify.com/album/2iGPCzX5WRnnxxIaB933J8?si=RAJTti4qSYC6GXnrUyWC0Q). 
 
@@ -38,7 +42,7 @@ margin-top: 20px" align="center"></a>
 \
 \
 
-#### Hiking
+##### <span style="text-align: left;">Hiking</span>
 
 <img src="images/hikes2.png" style="width:80%; 
 border:0px solid; margin-right: 20px; margin-left: 20px; 

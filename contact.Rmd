@@ -1,7 +1,10 @@
 ---
+title: "C Berry | Contact"
+output:
+  html_document:
+    css: 'style.css'
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
 
 <br>
 
